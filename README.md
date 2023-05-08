@@ -6,3 +6,5 @@ Hi
 We are friends
 Hello
 New message receved
+Good weither
+That's great!
